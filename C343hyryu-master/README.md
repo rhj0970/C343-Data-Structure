@@ -1,1 +1,1 @@
-# C343hyryu
+All coursework from C343 Data Structure course
